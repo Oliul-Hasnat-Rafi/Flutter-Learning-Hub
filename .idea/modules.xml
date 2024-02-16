@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Flutter-Learning-Hub.iml" filepath="$PROJECT_DIR$/.idea/Flutter-Learning-Hub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutterlearninghub.iml" filepath="$PROJECT_DIR$/flutterlearninghub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/flutterlearninghub_android.iml" filepath="$PROJECT_DIR$/android/flutterlearninghub_android.iml" />
     </modules>
   </component>
 </project>
